@@ -1,0 +1,10 @@
+title: Desarrollo de Aplicaciones
+description: Material del curso
+
+theme: jekyll-theme-primer
+
+url: https://mariomurc.github.io
+
+aux_links:
+  "Repositorio":
+    - "https://github.com/mariomurc/pmdm_temp"
